@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Book Haven",
+    "description": "A cozy bookstore with a wide range of genres.",
+    "latitude": 51.9219,
+    "longitude": 4.4794
+  },
+  {
+    "title": "Paper Trails",
+    "description": "A boutique bookstore offering rare and vintage books.",
+    "latitude": 51.9104,
+    "longitude": 4.4777
+  },
+  {
+    "title": "Chapter & Verse",
+    "description": "A literary haven for book lovers of all ages.",
+    "latitude": 51.9174,
+    "longitude": 4.4709
+  },
+  {
+    "title": "City Books",
+    "description": "Located in the heart of the city, offering a diverse collection.",
+    "latitude": 51.9225,
+    "longitude": 4.4786
+  },
+  {
+    "title": "Book Nook",
+    "description": "A community-oriented bookstore with regular book clubs.",
+    "latitude": 51.9087,
+    "longitude": 4.4734
+  },
+  {
+    "title": "Novel Ideas",
+    "description": "An independent bookstore promoting local authors.",
+    "latitude": 51.9201,
+    "longitude": 4.4630
+  },
+  {
+    "title": "Verse & Prose",
+    "description": "Specializing in poetry and prose, a serene place for reading.",
+    "latitude": 51.9149,
+    "longitude": 4.4751
+  },
+  {
+    "title": "Cityscape Books",
+    "description": "A bookstore with a view, overlooking the city's skyline.",
+    "latitude": 51.9281,
+    "longitude": 4.4818
+  },
+  {
+    "title": "The Reading Corner",
+    "description": "A family-friendly bookstore with a dedicated children's section.",
+    "latitude": 51.9122,
+    "longitude": 4.4695
+  },
+  {
+    "title": "Ink & Pages",
+    "description": "A bookstore for art and literature enthusiasts.",
+    "latitude": 51.9167,
+    "longitude": 4.4800
+  }
+]
